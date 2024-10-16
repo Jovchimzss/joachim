@@ -1,0 +1,12 @@
+@import url(https://www.instagram.com/);
+
+body{
+    padding: 0 2%;
+    margin: 0%;
+    font-family: sans-serif;
+
+}
+
+nav {
+    display: flex;
+}
