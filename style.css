@@ -1,10 +1,18 @@
-@import url(https://www.instagram.com/);
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-body{
-    padding: 0 2%;
-    margin: 0%;
-    font-family: sans-serif;
-
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+header{
+    width: 100%;
+    height: 80%;
+    
 }
 
 nav {
